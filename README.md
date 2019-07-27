@@ -1,6 +1,6 @@
 # FIFA-Best-XI-using-Jupyter-Notebook
 A team is formed by predicting the strongest 11 players for the formation 4-1-2-1-2 using the Data-Set. Here the formation requires 
-4-Defenders , 4-MidFielders and 2-Forwards with 1-GoalKeeper. 
+4-Defenders , 4-MidFielders and 2-Forwards with 1-GoalKeeper. The CSV File which is used for the project is also given in repository. 
 
 DEFENDERS 
 (1) LCB-Left Centre Back 
